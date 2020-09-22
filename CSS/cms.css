@@ -1,0 +1,134 @@
+body{
+    font-family: georgia;
+    background: #d8d3cd;
+}
+h1{
+    background:#ffe78f;
+    text-shadow: 3px 3px 3px #41444b;
+     color:#222831;
+}
+.enca{
+    color:#003300
+}
+form{
+    background: rgb(0,0,0,0.2);
+    width: 95%;
+    height:50%;
+    margin-left: 3%;
+    border-radius: 10px;
+    padding:5px;
+}
+.ventajas{
+    background: rgb(204, 255, 102,0.3);
+    width: 95%;
+    height:50%;
+    margin-left: 3%;
+    border-radius: 10px;
+    padding:5px;
+}
+.desventajas{
+    background: rgb(179, 0, 0, 0.2);
+    width: 95%;
+    height:50%;
+    margin-left: 3%;
+    border-radius: 10px;
+    padding:5px;
+}
+table th, td{
+    text-align: center;
+}
+.clasi{
+  width: 60%;
+}
+.titulo {
+  background:#e79c2a ;
+  padding-top: 5px;
+}
+.clasi th{
+    background:#d4ebd0;
+}
+.contenido{
+    background:#faf0af
+}
+.titulo2{
+    background: #3b5249;
+    padding-top: 5px;
+    color: #f7f2e7;
+}
+.ejemplo th{
+    background:#d49a89;
+    padding:10px;
+}
+.content{
+    background:#f7d1ba;
+}
+.img{
+    background:#e8ded2;
+}
+.titulo3{
+    background:#092532;
+    padding-top: 5px;
+    color: #f7f2e7;
+}
+.propiedades th{
+    background:#a0c1b8;
+    padding:10px;
+}
+.content2{
+    background: #ddf3f5;
+}
+.titulo4{
+    background:#ec823a;
+    padding-top: 5px;
+        color: #393e46;
+}
+.cuadro th{
+    background:#fcf876;
+    padding:10px;
+    font-size: 18px;
+}
+.content3{
+    background: #f1ebbb;
+}
+.imagen1{
+    width:20%;
+    height:25%;
+    float:left;
+    margin-left:3%;
+}
+.imagen2{
+    width:20%;
+    height:25%;
+    float:right;
+    margin-right: 5%;
+    margin-top: 3%;
+}
+.imagen3{
+    width:50%;
+    height:auto;
+    float: center;
+}
+.imagen4{
+    width:50%;
+    height:auto;
+    float: center;
+}
+.imagen5{
+    width:30%;
+    height:30%;
+    float: right;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.imagen6{
+    width: 3%;
+    height:5%;
+    float: left; 
+    margin-left:45% 
+}
+.imagen7{
+    width: 30%;
+    height:20%;
+    float: right;
+    margin-right: 1%;
+}
